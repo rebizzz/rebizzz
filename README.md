@@ -1,7 +1,7 @@
 # ❄️ rebizzz
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=Hi%2C%20I'm%20rebizzz;NixOS%20and%20Automation%20Developer;Welcome%20to%20my%20profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=Hi%2C%20I'm%20rebizzz;NixOS%20user%20btw;Welcome%20to%20my%20profile" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,13 +25,13 @@
 <table width="100%">
   <tr>
     <td width="55%" valign="top">
-      <h3>💻 System Status</h3>
+      <h3>💻 system status</h3>
       <pre>
           c.           rebizzz@nixos
        ,xNMM.          -------------
      .OMMMMMX.         OS: NixOS
     (NMMMMMMMM:        Shell: zsh / bash
-   :NMMMMMMMMMMd.      Focus: Automation bots
+   :NMMMMMMMMMMd.      Focus: Writing scripts to automate life
   .NMMMMMMMMMMMMD.     Editor: Neovim
   dMMMMMMMMMMMMMMd     Theme: Catppuccin Mocha
   dMMMMMMMMMMMMMMd     
@@ -44,7 +44,7 @@
       </pre>
     </td>
     <td width="45%" valign="top">
-      <h3>🛠️ Tech Stack</h3>
+      <h3>🛠️ tech i use</h3>
       <p align="center">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=nix,py,ts,js,bun,docker,git,bash,linux&theme=dark" alt="Tech Stack" />
@@ -56,16 +56,16 @@
 
 ---
 
-### 📂 Featured Projects
+### 📂 things i built
 
-* 🤖 **[reddit-to-instagram](https://github.com/rebizzz/reddit-to-instagram)** — Automated media scraper and uploader with custom PIL watermarking, automated hashtag rotation, and rate-limit handling.
-* 🎵 **[spotify-to-instagram-stories](https://github.com/rebizzz/spotify-to-instagram-stories)** — Real-time Spotify now-playing media compilation pipeline, rendering custom MoviePy videos and publishing to IG stories.
-* 📡 **[reddit-live-to-telegram](https://github.com/rebizzz/reddit-live-to-telegram)** — Live thread streaming mirror, parsing updates, fetching Twitter/X attachments via Tweepy, and relaying media groups to Telegram.
-* ❄️ **[nixos-config](https://codeberg.org/rebiz/nixos-config)** — Declarative system flakes, SOPS-secrets encryption, and dotfiles.
+* 🤖 **[reddit-to-instagram](https://github.com/rebizzz/reddit-to-instagram)** — scrapes reddit memes and auto-posts them to instagram (photos, reels, stories). watermarks images and rotates hashtags so the algorithm doesn't flag it.
+* 🎵 **[spotify-to-instagram-stories](https://github.com/rebizzz/spotify-to-instagram-stories)** — grabs whatever i'm listening to on spotify, downloads the audio, renders a 30s video with moviepy, and uploads it to my ig story.
+* 📡 **[reddit-live-to-telegram](https://github.com/rebizzz/reddit-live-to-telegram)** — mirrors reddit live threads to telegram in real-time. parses twitter/x links, downloads the attachments, and posts them as media groups.
+* ❄️ **[nixos-config](https://codeberg.org/rebiz/nixos-config)** — my declarative desktop system. flakes, sops-nix for secrets, and dotfiles.
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rebizzz&show_icons=true&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true&include_all_commits=true" alt="rebizzz's GitHub Stats" width="48%" />
