@@ -18,8 +18,8 @@ NixOS explorer & Wayland desktop developer. Building automated pipelines and bot
 
 ### 💫 About Me
 
-* 🛠️ Currently developing **[Noctalia](https://github.com/rebiz-loves-milfs/noctalia)** — a sleek and minimal desktop shell thoughtfully crafted for Wayland.
-* 🤖 Building automated pipelines like **[reddit-to-instagram](https://github.com/rebiz-loves-milfs/reddit-to-instagram)** and **[spotify-to-instagram-stories](https://github.com/rebiz-loves-milfs/spotify-to-instagram-stories)**.
+* 🛠️ Currently developing **[Noctalia](https://github.com/rebizzz/noctalia)** — a sleek and minimal desktop shell thoughtfully crafted for Wayland.
+* 🤖 Building automated pipelines like **[reddit-to-instagram](https://github.com/rebizzz/reddit-to-instagram)** and **[spotify-to-instagram-stories](https://github.com/rebizzz/spotify-to-instagram-stories)**.
 * ❄️ Declaring my systems with **[nixos-config](https://codeberg.org/rebiz/nixos-config)**, managing declarative flakes, SOPS-secrets, and custom Wayland environments.
 
 ---
@@ -45,10 +45,10 @@ NixOS explorer & Wayland desktop developer. Building automated pipelines and bot
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rebiz-loves-milfs&show_icons=true&theme=catppuccin&hide_border=true&include_all_commits=true" alt="rebiz's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rebiz-loves-milfs&theme=catppuccin&hide_border=true" alt="rebiz's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rebizzz&show_icons=true&theme=catppuccin&hide_border=true&include_all_commits=true" alt="rebiz's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rebizzz&theme=catppuccin&hide_border=true" alt="rebiz's GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebiz-loves-milfs&layout=compact&theme=catppuccin&hide_border=true" alt="rebiz's Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebizzz&layout=compact&theme=catppuccin&hide_border=true" alt="rebiz's Top Languages" width="48%" />
 </p>
