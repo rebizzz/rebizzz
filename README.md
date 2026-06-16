@@ -1,6 +1,24 @@
 # ❄️ rebizzz
 
-NixOS explorer & Wayland desktop enthusiast. Building automated pipelines and bot ecosystems.
+```shell
+$ neofetch --user rebizzz
+```
+```
+          c.           rebizzz@nixos
+       ,xNMM.          -------------
+     .OMMMMMX.         OS: NixOS
+    (NMMMMMMMM:        Shell: bash / zsh
+   :NMMMMMMMMMMd.      Focus: Bot ecosystems & automation
+  .NMMMMMMMMMMMMD.     Editor: Neovim
+  dMMMMMMMMMMMMMMd     Aesthetic: Catppuccin Mocha
+  dMMMMMMMMMMMMMMd     
+  .NMMMMMMMMMMMMD.     
+   :NMMMMMMMMMMd.      
+    (NMMMMMMMM:        
+     .OMMMMMX.         
+       ,xNMM.          
+          c.           
+```
 
 <p align="left">
   <img src="https://komarev.com/normal-badge/?username=rebizzz&style=flat-square&color=89b4fa&label=profile%20views" alt="profile views" />
@@ -20,19 +38,20 @@ NixOS explorer & Wayland desktop enthusiast. Building automated pipelines and bo
 
 ---
 
-### 💫 About Me
+### 📂 Featured Projects
 
-* 🛠️ Currently developing **[Noctalia](https://github.com/rebizzz/noctalia)** — a sleek and minimal desktop shell thoughtfully crafted for Wayland.
-* 🤖 Building automated pipelines like **[reddit-to-instagram](https://github.com/rebizzz/reddit-to-instagram)** and **[spotify-to-instagram-stories](https://github.com/rebizzz/spotify-to-instagram-stories)**.
-* ❄️ Declaring my systems with **[nixos-config](https://codeberg.org/rebiz/nixos-config)**, managing declarative flakes, SOPS-secrets, and custom Wayland environments.
+* 🤖 **[reddit-to-instagram](https://github.com/rebizzz/reddit-to-instagram)** — Automated media scraper and uploader with custom PIL watermarking, automated hashtag rotation, and rate-limit handling.
+* 🎵 **[spotify-to-instagram-stories](https://github.com/rebizzz/spotify-to-instagram-stories)** — Real-time Spotify now-playing media compilation pipeline, rendering custom MoviePy videos and publishing to IG stories.
+* 📡 **[reddit-live-to-telegram](https://github.com/rebizzz/reddit-live-to-telegram)** — Live thread streaming mirror, parsing updates, fetching Twitter/X attachments via Tweepy, and relaying media groups to Telegram.
+* ❄️ **[nixos-config](https://codeberg.org/rebiz/nixos-config)** — Declarative system flakes, SOPS-secrets encryption, and dotfiles.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
 * **Languages**: Python, TypeScript/JavaScript, Nix, Bash
-* **Runtimes/Frameworks**: Bun, Node.js, Pyrogram, Tweepy, PRAW, instagrapi, MoviePy
-* **Tools/Env**: Linux (NixOS), Git, GitHub Actions, Docker, Wayland/PipeWire
+* **Runtimes & Frameworks**: Bun, Node.js, Pyrogram, Tweepy, PRAW, instagrapi, MoviePy, Pillow
+* **DevOps & Env**: NixOS, Docker, Git, GitHub Actions, Linux
 
 <p align="left">
   <img src="https://img.shields.io/badge/NixOS-74c7ec?style=flat-square&logo=NixOS&logoColor=1e1e2e" alt="NixOS" />
