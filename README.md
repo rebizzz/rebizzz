@@ -10,7 +10,7 @@ NixOS explorer & Wayland desktop developer. Building automated pipelines and bot
     <img src="https://img.shields.io/badge/Telegram-@sakuraka-89b4fa?style=flat-square&logo=telegram&logoColor=1e1e2e" alt="Telegram" />
   </a>
   <a href="https://discord.com/users/1296550727652610189" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-sakuraka-fab387?style=flat-square&logo=discord&logoColor=1e1e2e" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-rebiz-fab387?style=flat-square&logo=discord&logoColor=1e1e2e" alt="Discord" />
   </a>
 </p>
 
