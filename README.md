@@ -58,10 +58,20 @@
 
 ### 📂 things i built
 
-* 🤖 **[reddit-to-instagram](https://github.com/rebizzz/reddit-to-instagram)** — scrapes reddit memes and auto-posts them to instagram (photos, reels, stories). watermarks images and rotates hashtags so the algorithm doesn't flag it.
-* 🎵 **[spotify-to-instagram-stories](https://github.com/rebizzz/spotify-to-instagram-stories)** — grabs whatever i'm listening to on spotify, downloads the audio, renders a 30s video with moviepy, and uploads it to my ig story.
-* 📡 **[reddit-live-to-telegram](https://github.com/rebizzz/reddit-live-to-telegram)** — mirrors reddit live threads to telegram in real-time. parses twitter/x links, downloads the attachments, and posts them as media groups.
-* ❄️ **[nixos-config](https://codeberg.org/rebiz/nixos-config)** — my declarative desktop system. flakes, sops-nix for secrets, and dotfiles.
+<p align="center">
+  <a href="https://github.com/rebizzz/reddit-to-instagram">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rebizzz&repo=reddit-to-instagram&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true" width="48%" alt="reddit-to-instagram" />
+  </a>
+  <a href="https://github.com/rebizzz/spotify-to-instagram-stories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rebizzz&repo=spotify-to-instagram-stories&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true" width="48%" alt="spotify-to-instagram-stories" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rebizzz/reddit-live-to-telegram">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rebizzz&repo=reddit-live-to-telegram&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true" width="48%" alt="reddit-live-to-telegram" />
+  </a>
+</p>
 
 ---
 
