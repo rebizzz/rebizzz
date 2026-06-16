@@ -1,11 +1,11 @@
 # ❄️ rebizzz
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+rebizzz+👋;NixOS+%26+Automation+Wizard;Welcome+to+my+code+space!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=Hi%2C%20I'm%20rebizzz;NixOS%20and%20Automation%20Developer;Welcome%20to%20my%20profile" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/normal-badge/?username=rebizzz&style=flat-square&color=89b4fa&label=profile%20views" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rebizzz&color=89b4fa&style=flat-square&label=profile+views" alt="profile views" />
 </p>
 
 <p align="center">
@@ -65,21 +65,13 @@
 
 ---
 
-### 🏆 Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rebizzz&theme=mocha&no-bg=true&column=7&margin-w=15" alt="Trophies" />
-</p>
-
----
-
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rebizzz&show_icons=true&theme=catppuccin&hide_border=true&include_all_commits=true" alt="rebizzz's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rebizzz&show_icons=true&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true&include_all_commits=true" alt="rebizzz's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rebizzz&theme=catppuccin&hide_border=true" alt="rebizzz's GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebizzz&layout=compact&theme=catppuccin&hide_border=true" alt="rebizzz's Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebizzz&layout=compact&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true" alt="rebizzz's Top Languages" width="48%" />
 </p>
