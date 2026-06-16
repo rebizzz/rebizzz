@@ -78,7 +78,7 @@
 ### 📊 stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rebizzz&show_icons=true&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true&include_all_commits=true" alt="rebizzz's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rebizzz&show_icons=true&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true" alt="rebizzz's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rebizzz&theme=catppuccin&hide_border=true" alt="rebizzz's GitHub Streak" width="48%" />
 </p>
 
