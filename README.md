@@ -27,20 +27,14 @@
     <td width="55%" valign="top">
       <h3>💻 system status</h3>
       <pre>
-          c.           rebizzz@nixos
-       ,xNMM.          -------------
-     .OMMMMMX.         OS: NixOS
-    (NMMMMMMMM:        Shell: zsh / bash
-   :NMMMMMMMMMMd.      Focus: Writing scripts to automate life
-  .NMMMMMMMMMMMMD.     Editor: Neovim
-  dMMMMMMMMMMMMMMd     Theme: Catppuccin Mocha
-  dMMMMMMMMMMMMMMd     
-  .NMMMMMMMMMMMMD.     
-   :NMMMMMMMMMMd.      
-    (NMMMMMMMM:        
-     .OMMMMMX.         
-       ,xNMM.          
-          c.           
+    ▗▄▄    ▗▄▄▄        rebizzz@nixos
+    ▜██▙    ▜██▙▟▙     -------------
+     ▜██▙    ▜████▛    OS: NixOS
+   ▟███████▙  ▜██▛     Shell: zsh / bash
+   ▜███████▛  ▟██▙     Focus: Automating life
+     ▟██▛    ▟████▙    Editor: Neovim (btw)
+    ▟██▛    ▟██▛▜▛     Theme: Catppuccin Mocha
+    ▝▀▀    ▝▀▀▀        
       </pre>
     </td>
     <td width="45%" valign="top">
