@@ -1,31 +1,38 @@
-# ❄️ rebizzz
+<h1 align="center">❄️ rebizzz</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=Hi%2C%20I'm%20rebizzz;NixOS%20user%20btw;Welcome%20to%20my%20profile" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rebizzz&color=89b4fa&style=flat-square&label=profile+views" alt="profile views" />
+  <em>NixOS user btw · automating my way out of doing things twice</em>
 </p>
 
 <p align="center">
   <a href="mailto:guardiansofspartax@gmail.com">
-    <img src="https://img.shields.io/badge/Email-guardiansofspartax%40gmail.com-cba6f7?style=flat-square&logo=gmail&logoColor=1e1e2e" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-cba6f7?style=flat-square&logo=gmail&logoColor=1e1e2e" alt="Email" />
   </a>
   <a href="https://t.me/sakuraka" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@sakuraka-89b4fa?style=flat-square&logo=telegram&logoColor=1e1e2e" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-89b4fa?style=flat-square&logo=telegram&logoColor=1e1e2e" alt="Telegram" />
   </a>
   <a href="https://discord.com/users/1296550727652610189" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-rebiz-fab387?style=flat-square&logo=discord&logoColor=1e1e2e" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-fab387?style=flat-square&logo=discord&logoColor=1e1e2e" alt="Discord" />
   </a>
 </p>
+
+---
+
+### 👋 whoami
+
+```text
+- 🐧 live in the terminal, rebuild my whole OS when I'm bored
+- 🤖 i build small bots that glue platforms together (reddit → ig, spotify → stories, etc.)
+- 🌸 catppuccin mocha on everything, neovim, declarative or it didn't happen
+- 🧪 currently: making more of my life run without me touching it
+```
 
 ---
 
 <table width="100%">
   <tr>
     <td width="55%" valign="top">
-      <h3>💻 system status</h3>
+      <h3>💻 system</h3>
       <pre>
     ▗▄▄    ▗▄▄▄        rebizzz@nixos
     ▜██▙    ▜██▙▟▙     -------------
@@ -34,11 +41,11 @@
    ▜███████▛  ▟██▙     Focus: Automating life
      ▟██▛    ▟████▙    Editor: Neovim (btw)
     ▟██▛    ▟██▛▜▛     Theme: Catppuccin Mocha
-    ▝▀▀    ▝▀▀▀        
+    ▝▀▀    ▝▀▀▀
       </pre>
     </td>
     <td width="45%" valign="top">
-      <h3>🛠️ tech i use</h3>
+      <h3>🛠️ stack</h3>
       <p align="center">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=nix,py,ts,js,bun,docker,git,bash,linux&theme=dark" alt="Tech Stack" />
@@ -50,22 +57,33 @@
 
 ---
 
-### 📂 things i built
+### 📂 stuff i built
 
-<p align="center">
-  <a href="https://github.com/rebizzz/reddit-to-instagram">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rebizzz&repo=reddit-to-instagram&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true" width="48%" alt="reddit-to-instagram" />
-  </a>
-  <a href="https://github.com/rebizzz/spotify-to-instagram-stories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rebizzz&repo=spotify-to-instagram-stories&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true" width="48%" alt="spotify-to-instagram-stories" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/rebizzz/reddit-live-to-telegram">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rebizzz&repo=reddit-live-to-telegram&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true" width="48%" alt="reddit-live-to-telegram" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rebizzz/reddit-to-instagram">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rebizzz&repo=reddit-to-instagram&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true" alt="reddit-to-instagram" />
+      </a>
+      <p align="center"><sub>🔁 pulls posts from reddit and auto-uploads them to instagram</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rebizzz/spotify-to-instagram-stories">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rebizzz&repo=spotify-to-instagram-stories&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true" alt="spotify-to-instagram-stories" />
+      </a>
+      <p align="center"><sub>🎵 turns whatever i'm listening to into an ig story</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rebizzz/reddit-live-to-telegram">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rebizzz&repo=reddit-live-to-telegram&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true" alt="reddit-live-to-telegram" />
+      </a>
+      <p align="center"><sub>📡 streams live reddit posts straight into telegram</sub></p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 
 ---
 
@@ -73,9 +91,22 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rebizzz&show_icons=true&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true" alt="rebizzz's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rebizzz&theme=catppuccin&hide_border=true" alt="rebizzz's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebizzz&layout=compact&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true" alt="rebizzz's Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebizzz&layout=compact&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true" alt="rebizzz's Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rebizzz&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=89b4fa&area_color=89b4fa&area=true&hide_border=true&custom_title=contribution%20graph" alt="Activity Graph" width="98%" />
 </p>
+
+<!-- snake animation (auto-generated by the workflow in .github/workflows/snake.yml) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rebizzz/rebizzz/output/snake.svg" alt="snake eating my contributions" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random dev quote" />
+</p>
+
+<p align="center"><sub>declarative or it didn't happen ❄️</sub></p>
