@@ -15,13 +15,13 @@
 
 ---
 
-### 👋 whoami
+###  whoami
 
 ```text
-- 🐧 live in the terminal, rebuild my whole OS when I'm bored
-- 🤖 i build small bots that glue platforms together (reddit → ig, spotify → stories, etc.)
-- 🌸 catppuccin mocha on everything, neovim, declarative or it didn't happen
-- 🧪 currently: making more of my life run without me touching it
+-  live in the terminal, rebuild my whole OS when I'm bored
+-  i build small bots that glue platforms together (reddit → ig, spotify → stories, etc.)
+-  catppuccin mocha on everything, neovim, declarative or it didn't happen
+-  currently: making more of my life run without me touching it
 ```
 
 ---
